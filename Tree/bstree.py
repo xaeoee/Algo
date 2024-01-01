@@ -84,14 +84,3 @@ tree = TreeNode(6)
 tree.insert(5)
 tree.insert(2)
 tree.insert(3)
-tree.insert(4)
-
-
-# tree.inorder_traversal()
-tree.preorder_traversal()
-tree.delete(3)
-tree.preorder_traversal()
-# tree.postorder_traversal()
-
-# print(tree.find(2))
-# print(tree.delete(5))

@@ -8,4 +8,3 @@ def insertion_sort(arr):
             j -= 1
 
 insertion_sort(arr)
-print(arr)
